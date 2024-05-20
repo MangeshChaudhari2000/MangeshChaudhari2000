@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mangesh Chaudhari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -10,8 +9,6 @@
 - 🌱 I’m currently learning **ReactJS, AWS**
 
 - 👯 I’m looking to collaborate on **Nodejs based projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MangeshChaudhari2000](https://github.com/MangeshChaudhari2000)
 
 - 💬 Ask me about **NodeJS, C#, SQL, Mongoose, MongoDB, Rest API**
 
@@ -30,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangeshchaudhari2000&show_icons=true&locale=en&layout=compact" alt="mangeshchaudhari2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangeshchaudhari2000&show_icons=true&locale=en" alt="mangeshchaudhari2000" /></p>
-
