@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangeshchaudhari2000&label=Profile%20views&color=0e75b6&style=flat" alt="mangeshchaudhari2000" /> </p>
 
-- 🔭 I’m currently working in **Infosys**
+- 🔭 I’m currently havind 3YOE working in **Infosys**
 
 - 🌱 I’m currently learning **ReactJS, AWS**
 
